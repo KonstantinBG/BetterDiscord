@@ -4705,3 +4705,9 @@ div[role="radiogroup"] {
   font-weight: 700 !important; }
   .dc-tooltip .dc-tooltip-text:after {
     border-bottom-color: var(--popout-color) !important; }
+
+:root {
+    --accent-color: ##24b34a;
+    --accent-hover: ###24b34a;
+    --accent-rgb: 36, 179, 74;
+}
